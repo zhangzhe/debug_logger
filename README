@@ -1,0 +1,14 @@
+For logging debug info in any ENV.
+Created by Gary zhang 2010.4.16.
+
+How to use:
+In model or controller, use
+  debug_log("anything")
+to log info into log/debug.log.
+
+If in controller, the basic params and request info will be logged as well.
+
+
+
+  
+
